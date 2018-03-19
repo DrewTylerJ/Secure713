@@ -1,0 +1,6 @@
+Recent Updates:
+Added functionality for adding data
+Added functionality for deleting a site
+Added functionality for saving the data to the text file IN THE PROPER FORMAT
+Added functionality for a native print debugger
+Added functionality for a read the text file function for debugging while testing the live program

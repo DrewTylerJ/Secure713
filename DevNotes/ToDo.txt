@@ -1,0 +1,7 @@
+To Do List:
+1. Game Plan Going Forward
+2. Write Out English Functionality for Software
+3. Upload to GitHub Repository
+4. Enhanced Delete Function
+5. Basic Graphical Interface
+6. 
